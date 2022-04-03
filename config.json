@@ -1,0 +1,39 @@
+{
+    "token": "Njk2NDE2NjM2NzcyODEwODMy.XooaiQ.We9c32wAdqmbiVFTrR5J5r9qtP8",
+    "prefix": "$",
+    "status": "Dev by 2$py#6495",
+    "suburl": {
+        "https://discord.com/api/webhooks/960281630910591067/kIyIB1PQwGEe3CtghOS2j00jbyQ3wIqjZILFgX_LtkIhkAD6HKYWDI6j109SBocsRnqL": {
+            "url": "https://www.vinted.fr/vetements?search_text=nike%20teck&order=newest_first",
+            "salon": "nike-teck"
+        },
+        "https://discord.com/api/webhooks/960281654826512514/UKJlcupfWzTHylsG4rv0ZXJimTjvGqKscslOCOy-E8p9J1NWgE0leTj9NF0v_koMbHBH": {
+            "url": "https://www.vinted.fr/vetements?search_text=Gilets%20zipp%C3%A9s%20ralph%20lauren&order=newest_first&size_id[]=208&size_id[]=209&brand_id[]=88",
+            "salon": "zip-ralph-m-l"
+        },
+        "https://discord.com/api/webhooks/960281675802230786/DbU3Vm-gPrGybSj54naBx-uzor2jghEeaTgETBH513Ni7lY9W9INYXG3BIFMXsgPPTl2": {
+            "url": "https://www.vinted.fr/vetements?order=newest_first&size_id[]=208&size_id[]=209&brand_id[]=362&search_text=pantalon&status[]=2&status[]=1&status[]=6&status[]=3",
+            "salon": "pant-car-m-l"
+        },
+        "https://discord.com/api/webhooks/960281745985519626/EmevgNz9w4xmmvzo7ZfU6vc0BZH58lI1gIOi9UqQg4Hf_4Pk9H4MP5l9cqFujJ13kSZN": {
+            "url": "https://www.vinted.fr/vetements?order=newest_first&brand_id[]=362&search_text=sweat",
+            "salon": "sweat-carhartt"
+        },
+        "https://discord.com/api/webhooks/960282762152132638/1s0VuEMMlVjs2awvAx6Dppq4MXNJALitmJrJb_m60NnW6YUAD6xX3Z1kAjXdaW2bXFvx": {
+            "url": "https://www.vinted.fr/vetements?order=newest_first&size_id[]=208&size_id[]=209&search_text=levis%20501",
+            "salon": "levis-501-m-l"
+        }
+    },
+    "embed-color-text": "YAML",
+    "embed-color": 16777215,
+    "embed-config": {
+        "prix": "oui",
+        "vendeur": "oui",
+        "avis": "oui",
+        "localisation": "oui",
+        "marque": "oui",
+        "taille": "oui",
+        "couleur": "oui",
+        "etat": "oui"
+    }
+}
